@@ -17,6 +17,13 @@ public class Estudiante extends Persona implements Comparable<Estudiante> {
 
     private String celular;
     private Integer curso;
+    private String email;
+
+    public String getEmail() {
+        return email;
+    }
+    
+    
 
     public Estudiante() {
     }

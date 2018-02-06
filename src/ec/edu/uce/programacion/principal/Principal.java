@@ -19,7 +19,7 @@ import java.io.InputStreamReader;
  * @version 8.0.2
  */
 public class Principal {
-
+    
     BufferedReader lector = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws Exception {
