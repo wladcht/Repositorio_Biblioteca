@@ -1,0 +1,27 @@
+LIBRO 1
+
+Codigo      :A21
+Titulo    :EL ALQUIMISTA
+Autor      :PAULO COHELLO
+Paginas     :567
+Fecha Edicion       :Fri Oct 17 00:00:00 COT 2008
+Precio    :100.0
+*************************************
+LIBRO 2
+
+Codigo      :B22
+Titulo    :LAGUNA AZUL
+Autor      :MARIO CONDE
+Paginas     :465
+Fecha Edicion       :Fri Nov 26 00:00:00 COT 2010
+Precio    :2000.0
+*************************************
+LIBRO 3
+
+Codigo      :C23
+Titulo    :EL PSIQUICO
+Autor      :HENRY BARXS
+Paginas     :509
+Fecha Edicion       :Thu Aug 18 00:00:00 COT 2011
+Precio    :300.0
+*************************************

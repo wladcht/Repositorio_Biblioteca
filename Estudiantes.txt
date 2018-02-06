@@ -1,0 +1,24 @@
+Estudiante 1
+
+Codigo    :1
+Nombre    :Eduardo
+Fecha Nacimiento      :Sun Aug 01 00:00:00 COT 1993
+Celular     :0988866953
+Curso       :1
+*************************************
+Estudiante 2
+
+Codigo    :2
+Nombre    :Paola
+Fecha Nacimiento      :Sun Jan 16 00:00:00 COT 1994
+Celular     :0995597027
+Curso       :4
+*************************************
+Estudiante 3
+
+Codigo    :3
+Nombre    :Monica
+Fecha Nacimiento      :Sun Nov 01 00:00:00 COST 1992
+Celular     :0987794761
+Curso       :3
+*************************************

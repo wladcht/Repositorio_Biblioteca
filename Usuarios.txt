@@ -1,0 +1,24 @@
+Usuario 1
+
+Codigo    :100
+Nombre    :Andrea
+Fecha Nacimiento      :Thu Dec 10 00:00:00 COST 1992
+Usuario     :Andre
+Clave       :Andre92
+*************************************
+Usuario 2
+
+Codigo    :200
+Nombre    :Alex
+Fecha Nacimiento      :Thu Jun 26 00:00:00 COT 1986
+Usuario     :Alex
+Clave       :Alex86
+*************************************
+Usuario 3
+
+Codigo    :300
+Nombre    :Gabriela
+Fecha Nacimiento      :Sun Jan 10 00:00:00 COST 1993
+Usuario     :Gaby
+Clave       :Gaby93
+*************************************
