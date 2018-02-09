@@ -30,7 +30,18 @@ public class Estudiante extends Persona implements Comparable<Estudiante> {
 
     public Estudiante() {
     }
+    
+    //Ejemplo Modificacion
+    private String Semestre;
 
+    public String getSemestre() {
+        return Semestre;
+    }
+
+    public void setSemestre(String Semestre) {
+        this.Semestre = Semestre;
+    }
+    
     /**
      * 
      * @param codigo
