@@ -19,8 +19,6 @@ public class Menu {
 
     public static AdminUsuarios admUsu = new AdminUsuarios();
     
-    
-    //Sexta Modificacion
     BufferedReader leer = new BufferedReader(new InputStreamReader(System.in));
     UsuarioMetodos u = new UsuarioMetodos();
     EstudianteMetodos d = new EstudianteMetodos();
@@ -36,6 +34,7 @@ public class Menu {
         String pass;
         int aux = 0;
         do {
+            //Codigo que genera vista de usuario por escritorio
             System.out.println("**************************");
             System.out.println("*** INGRESO AL SISTEMA ***");
             System.out.println("*** USUARIO :");
@@ -63,6 +62,7 @@ public class Menu {
     public void menuPrincipal() throws IOException, ParseException {
         int op;
         do {
+            //Vista del Menu principal por Ventana
             System.out.println("**************************");
             System.out.println("***   MENU PRINCIPAL   ***");
             System.out.println("*** 1: ADMINISTRACION  ***");
@@ -71,6 +71,7 @@ public class Menu {
             System.out.println("**************************");
             System.out.println(" ELIJA UNA OPCION: ");
             op = Integer.parseInt(leer.readLine());
+            //Llama al metodo segun la opcion del menu que escoja 
             switch (op) {
                 case 1:
                     menuAdministracion();
@@ -134,6 +135,7 @@ public class Menu {
     public void menuUsuario() throws IOException, ParseException {
         int op = 1;
         do {
+            //Opciones a realizar con los libros
             System.out.println("***************************");
             System.out.println("*** USUARIO/LIBRO/ESTUDIANTE ***");
             System.out.println("*** 1: Nuevo                 ***");
